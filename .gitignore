@@ -1,0 +1,12 @@
+# .gitignore
+# Node
+client/node_modules
+client/dist
+
+# .NET
+server/bin/
+server/obj/
+
+# OS
+.DS_Store
+Thumbs.db
