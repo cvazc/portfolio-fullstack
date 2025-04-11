@@ -4,8 +4,8 @@ client/node_modules
 client/dist
 
 # .NET
-server/bin/
-server/obj/
+server/PortfolioApi/bin/
+server/PortfolioApi/obj
 
 # OS
 .DS_Store
